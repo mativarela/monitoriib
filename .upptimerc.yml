@@ -5,7 +5,7 @@ repo: monitoriib # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: iibinte
+  - name: iibinteCamara
     url: https://iibil01.sis.ad.bia.itau:6443/integracion/camara?wsdl
   - name: Hacker News
     url: https://news.ycombinator.com
@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /monitoriib
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status de nodos
+  name: Status
   introTitle: "**IntegrationBus** monitor"
   introMessage: monitor activo de sitios
   navbar:
