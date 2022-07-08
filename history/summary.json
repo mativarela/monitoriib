@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-08": 78,
+      "2022-07-08": 368,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
@@ -188,7 +188,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -200,6 +200,7 @@
     "timeMonth": 258,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2022-07-08": 0,
       "2022-04-11": 27,
       "2022-02-24": 18
     }
