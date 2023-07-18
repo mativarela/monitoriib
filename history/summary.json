@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 301,
+    "timeDay": 207,
     "timeWeek": 157,
-    "timeMonth": 118,
+    "timeMonth": 109,
     "timeYear": 112,
-    "dailyMinutesDown": {
-      "2023-07-17": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "iibinteCamara",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 1150,
+      "2023-07-18": 87,
+      "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -399,8 +398,7 @@
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
-      "2022-07-19": 1440,
-      "2022-07-18": 1440
+      "2022-07-19": 1440
     }
   },
   {
@@ -414,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 300,
-    "timeDay": 298,
-    "timeWeek": 324,
-    "timeMonth": 319,
+    "time": 301,
+    "timeDay": 401,
+    "timeWeek": 320,
+    "timeMonth": 321,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2023-06-08": 18,
