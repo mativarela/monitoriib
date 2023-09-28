@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 90,
-    "timeWeek": 176,
-    "timeMonth": 136,
-    "timeYear": 114,
-    "dailyMinutesDown": {}
+    "time": 114,
+    "timeDay": 304,
+    "timeWeek": 219,
+    "timeMonth": 147,
+    "timeYear": 116,
+    "dailyMinutesDown": {
+      "2023-09-28": 0
+    }
   },
   {
     "name": "iibinteCamara",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 49,
+      "2023-09-28": 1072,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
